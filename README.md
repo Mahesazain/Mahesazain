@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Mahesazain!
+# 👋 Hello, my name is Zain!
 
 ## 🚀 Profession/Role
-**Software Engineer**
+**Software Engineer** / **Backend Developer**
 
 ## 🛠️ Top Skills
 - C#
