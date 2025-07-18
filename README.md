@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Mahesazain!
 
-<!--
-**Mahesazain/Mahesazain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Profession/Role
+**Software Engineer**
 
-Here are some ideas to get you started:
+## 🛠️ Top Skills
+- C#
+- C++
+- Java
+- React
+- GoLang
+- ...and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Social Links
+- [Twitter](https://twitter.com/mahesazain_)
+- [Instagram](https://instagram.com/solveathing)
+
+## 🌎 Languages
+- English (fluent)
+- Indonesian (fluent)
+- Japanese (basic)
+
+## 🎉 Fun Facts / Interests
+- 📸 Photography
+- 🏍️ Touring
+- 🎮 Playing games
+- 🌟 I'm eager to learn or experience anything that I can try!
+
+Feel free to connect or reach out!
