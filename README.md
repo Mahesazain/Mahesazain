@@ -1,7 +1,7 @@
 # 👋 Hello, my name is Zain!
 
 ## 🚀 Profession/Role
-**Software Engineer** / **Backend Developer**
+**Software Engineer Student** / **Backend Developer**
 
 ## 🛠️ Top Skills
 - C#
@@ -10,11 +10,7 @@
 - React
 - GoLang
 - ...and more!
-
-## 🌐 Social Links
-- [Twitter](https://twitter.com/mahesazain_)
-- [Instagram](https://instagram.com/solveathing)
-
+- 
 ## 🌎 Languages
 - English (fluent)
 - Indonesian (fluent)
