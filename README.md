@@ -10,7 +10,6 @@
 - React
 - GoLang
 - ...and more!
-- 
 ## 🌎 Languages
 - English (fluent)
 - Indonesian (fluent)
